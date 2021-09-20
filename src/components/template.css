@@ -1,0 +1,27 @@
+.main-container{
+    background-color: white !important;
+}
+
+.block-one{
+    background-color: lightgrey;
+    margin: 1%;
+    text-align: center;
+    padding: 18%;
+}
+
+.add-button{
+    text-align: end !important;
+    margin-top: 5%;
+}
+
+#contained-modal-title-vcenter{
+    width: 95% !important;
+}
+
+.btn-close{
+    display: none !important;
+}
+
+.fade modal show{
+    overflow: hidden;
+}
